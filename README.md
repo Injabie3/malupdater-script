@@ -1,5 +1,5 @@
 # My Anime List Updater Script
-A simple PHP script to update PHP script to update your now playing anime from [MALUpdater](http://www.malupdater.com/) or [Taiga](http://taiga.moe/).  It can be used to public display your now playing on your website (e.g. [my profile](https://injabie3.moe)).
+A simple PHP script to update your now playing anime from [MALUpdater](http://www.malupdater.com/) or [Taiga](http://taiga.moe/).  It can be used to public display your now playing on your website (e.g. [my profile](https://injabie3.moe)).
 
 # Script Set Up
 - Create the table to store data using the SQL script on MySQL.
