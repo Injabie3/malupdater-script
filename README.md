@@ -10,4 +10,4 @@ A simple PHP script to update your now playing anime from [MALUpdater](http://ww
 - In Settings > Sharing > HTTP, enable "**Send HTTP request**, and specify the full URL to the PHP file.  It can be local, or publicly accessible.  Include the ``code`` query string.
 - Change the format string as follows:
 ``user=%user%&name=%title%&ep=%episode%&eptotal=$if(%total%,%total%,?)&score=%score%&picurl=%image%&animeID=%id%``
-![Taiga Screenshot](https://puu.sh/vHT7k/4351c5d2bf.jpg)
+![Taiga Screenshot](screenshot.jpg)
